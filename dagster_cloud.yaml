@@ -1,0 +1,6 @@
+locations:
+- build:
+    directory: ./foo
+  code_source:
+    module_name: foo.definitions
+  location_name: foo
